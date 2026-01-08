@@ -12,6 +12,7 @@ The dashboard is designed to answer several Key Performance Indicators (KPIs) cr
 
 
 PROCESS
+
 The image represents the final visualization and reporting stage of a data analysis project. The typical process would involve several steps: 
 1.	Requirement Gathering: The administrator, James Divine, likely defined the KPIs and objectives required for this report.
 2.	Data Collection & Cleaning: Raw sales data was gathered from point-of-sale (POS) systems and prepared for analysis.
