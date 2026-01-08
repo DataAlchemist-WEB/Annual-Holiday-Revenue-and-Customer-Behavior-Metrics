@@ -2,6 +2,7 @@
 Developed an interactive dashboard analyzing Christmas sales data (2018-2023) to optimize revenue strategies. This project involved using advanced Excel formulas to process ,customer demographics, and payment methods. Insights gained identified key growth areas and improved operational efficiency for the retail operations team.
 
 QUESTIONS (KPI)
+
 The dashboard is designed to answer several Key Performance Indicators (KPIs) critical for a retail business: 
 •	Overall Performance: What are the total sales and profit margins?
 •	Seasonal Trends: How do sales fluctuate across different holiday events (e.g., Black Friday vs. Christmas Market)?
